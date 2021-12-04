@@ -4,6 +4,6 @@
 /local/modules/local.sorts/*
 ```  
 
-![install modules](https://github.com/otolaa/local_sorts/blob/master/images/local_sorts/local_sorts_install.png?raw=true "install modules")
+![install modules](https://github.com/otolaa/local_sorts/blob/master/images/local_sorts/local_sorts_install.png "install modules")
 
-![local_sorts](https://github.com/otolaa/local_sorts/blob/master/images/local_sorts/local_sorts.png?raw=true "local_sorts")
+![local_sorts](https://github.com/otolaa/local_sorts/blob/master/images/local_sorts/local_sorts.png "local_sorts")
