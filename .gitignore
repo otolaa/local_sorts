@@ -1,0 +1,25 @@
+# Ignore IDE
+.idea
+.vscode
+# Ignore everything:
+/*
+!README.md
+!.gitignore
+!.gitattributes
+# first enable then exclude
+!/local/
+/local/*
+!/local/php_interface/
+!/local/templates/
+# Except for the components directories: /local/components/bitrix/
+!/local/components/
+/local/components/*
+!/local/components/bitrix/
+# Except for the modules directories: /local/modules/local.sorts/
+!/local/modules/
+/local/modules/*
+!/local/modules/local.sorts/
+#
+!/images/
+/images/*
+!/images/local_sorts/
