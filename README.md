@@ -3,7 +3,4 @@
 ```php
 /local/modules/local.sorts/*
 ```  
-
-![install modules](https://github.com/otolaa/local_sorts/blob/master/images/local_sorts/01.png "install modules")
-
 ![local_sorts](https://github.com/otolaa/local_sorts/blob/master/images/local_sorts/02.png "local_sorts") 
