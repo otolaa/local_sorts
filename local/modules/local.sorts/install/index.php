@@ -7,12 +7,12 @@ loc::loadMessages(__FILE__);
 
 Class local_sorts extends CModule
 {
-    var $MODULE_ID = "local.sorts";
-    var $MODULE_VERSION;
-    var $MODULE_VERSION_DATE;
-    var $MODULE_NAME;
-    var $MODULE_DESCRIPTION;
-    var $MODULE_CSS;
+    public $MODULE_ID = "local.sorts";
+    public $MODULE_VERSION;
+    public $MODULE_VERSION_DATE;
+    public $MODULE_NAME;
+    public $MODULE_DESCRIPTION;
+    public $MODULE_CSS;
 
     public function __construct()
     {
@@ -22,8 +22,8 @@ Class local_sorts extends CModule
         $this->MODULE_VERSION_DATE = $arModuleVersion["VERSION_DATE"];
         $this->MODULE_NAME = GetMessage("sorts_module_name");
         $this->MODULE_DESCRIPTION = GetMessage("sorts_module_desc");
-        $this->PARTNER_NAME = 'saitovik.com';
-        $this->PARTNER_URI = 'http://saitovik.com';
+        $this->PARTNER_NAME = 'Alex Noodles';
+        $this->PARTNER_URI = '//github.com/otolaa/local_sorts';
     }
 
     public function getPageLocal($page)
